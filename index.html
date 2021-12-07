@@ -23,11 +23,11 @@
                 <option valeur="vert">vert</option>
                 <option valeur="violet">violet</option>
             </select>
-            <p>Zoom</p>
+            <!-- <p>Zoom</p>
             <div id="zoomOnOff" class="switch demo">
                 <input type="checkbox">
                 <label><i class='icon-off'></i></label>
-            </div>
+            </div> -->
         </div>
         <div id="map"></div>
         <div class="info-commune">
@@ -71,12 +71,12 @@
         }).addTo(map);
 
         //choix du zoom on ou off
-        let isOn = true;
-        const btnZoom = document.getElementById("zoomOnOff");
-        btnZoom.addEventListener("click", e => {
-            isOn = !isOn;
-            return isOn;
-        });
+        // let isOn = true;
+        // const btnZoom = document.getElementById("zoomOnOff");
+        // btnZoom.addEventListener("click", e => {
+        //     isOn = !isOn;
+        //     return isOn;
+        // });
 
         // choix de la couleur de la carte
         let couleur = "bleu";
@@ -206,9 +206,9 @@
 
         function zoomToFeature(e) {
             // contrôle du zoom
-            if (isOn) {
-                map.fitBounds(e.target.getBounds());
-            }
+            // if (isOn) {
+            map.fitBounds(e.target.getBounds());
+            // }
 
             //on récupère la page web de la commune
             let page = e.target.feature.properties.page;

@@ -426,7 +426,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15146", "nom": "Pailherols" }
+        "properties": {
+            "code": "15146",
+            "nom": "Pailherols",
+            "page": "http://www.cartesfrance.fr/carte-france-ville/15146_Pailherols.html",
+            "doc": {
+                "nom": "",
+                "lien": ""
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -977,7 +985,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15101", "nom": "Laveissi\u00e8re" }
+        "properties": {
+            "code": "15101",
+            "nom": "Laveissi\u00e8re",
+            "page": "https://www.insee.fr/fr/metadonnees/cog/commune/COM15101-laveissiere",
+            "doc": {
+                "nom": "",
+                "lien": ""
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1291,7 +1307,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15180", "nom": "Saint-Cl\u00e9ment" }
+        "properties": {
+            "code": "15180",
+            "nom": "Saint-Cl\u00e9ment",
+            "page": "https://www.eterritoire.fr/territoires/auvergne-rhone-alpes/cantal/saint-clement/15180/5404",
+            "doc": {
+                "nom": "",
+                "lien": ""
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -3850,7 +3874,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15113", "nom": "Mandailles-Saint-Julien" }
+        "properties": {
+            "code": "15113",
+            "nom": "Mandailles-Saint-Julien",
+            "page": "http://www.mandailles-stjulien.fr/",
+            "doc": {
+                "nom": "Risques majeurs",
+                "lien": "http://www.cantal.gouv.fr/IMG/pdf/TIM_Mandailles-Saint-Julien_cle21753b.pdf"
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -3885,7 +3917,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15026", "nom": "Brezons" }
+        "properties": {
+            "code": "15026",
+            "nom": "Brezons",
+            "page": "https://www.insee.fr/fr/metadonnees/cog/commune/COM15026-brezons",
+            "doc": {
+                "nom": "",
+                "lien": ""
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -4521,7 +4561,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15102", "nom": "Lavigerie" }
+        "properties": {
+            "code": "15102",
+            "nom": "Lavigerie",
+            "page": "https://www.insee.fr/fr/statistiques/2011101?geo=COM-15102",
+            "doc": {
+                "nom": "",
+                "lien": ""
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -5004,7 +5052,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15050", "nom": "Claux" }
+        "properties": {
+            "code": "15050",
+            "nom": "Claux",
+            "page": "https://www.annuaire-mairie.fr/mairie-le-claux-puy-mary.html",
+            "doc": {
+                "nom": "",
+                "lien": ""
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -5843,7 +5899,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15154", "nom": "Polminhac" }
+        "properties": {
+            "code": "15154",
+            "nom": "Polminhac",
+            "page": "http://www.polminhac.fr/",
+            "doc": {
+                "nom": "Risques Majeurs",
+                "lien": "http://www.cantal.gouv.fr/IMG/pdf/TIM_Polminhac_cle0c65c9.pdf"
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -5907,7 +5971,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15025", "nom": "Albepierre-Bredons" }
+        "properties": {
+            "code": "15025",
+            "nom": "Albepierre-Bredons",
+            "page": "http://www.cartesfrance.fr/carte-france-ville/15025_Albepierre-Bredons.html",
+            "doc": {
+                "nom": "Maison paysanne",
+                "lien": "http://auvergne.maisons-paysannes.org/wp-content/uploads/sites/3/2014/04/Compte-rendu-Bredons-juin-2015.pdf"
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -6241,7 +6313,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15112", "nom": "Malbo" }
+        "properties": {
+            "code": "15112",
+            "nom": "Malbo",
+            "page": "http://www.cartesfrance.fr/carte-france-ville/15112_Malbo.html",
+            "doc": {
+                "nom": "",
+                "lien": ""
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -6764,7 +6844,15 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15258", "nom": "Vic-sur-C\u00e8re" }
+        "properties": {
+            "code": "15258",
+            "nom": "Vic-sur-C\u00e8re",
+            "page": "http://www.vicsurcere.fr/",
+            "doc": {
+                "nom": "Risques Majeurs",
+                "lien": "http://www.cantal.gouv.fr/IMG/pdf/TIM_Vic-sur-Cere_cle141d8e.pdf"
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {

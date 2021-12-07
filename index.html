@@ -25,17 +25,11 @@
                 <option valeur="vert">vert</option>
                 <option valeur="violet">violet</option>
             </select>
-            <!-- <p>Zoom</p>
-            <div id="zoomOnOff" class="switch demo">
-                <input type="checkbox">
-                <label><i class='icon-off'></i></label>
-            </div> -->
         </div>
         <div id="map"></div>
         <div class="info-commune">
             <h4>Plus d'infos</h4>
             <p id="liens">
-                <!-- <a href="#" target="_blank"></a> -->
             </p>
         </div>
     </div>
@@ -73,14 +67,6 @@
             style: style,
             onEachFeature: onEachFeature
         }).addTo(map);
-
-        //choix du zoom on ou off
-        // let isOn = true;
-        // const btnZoom = document.getElementById("zoomOnOff");
-        // btnZoom.addEventListener("click", e => {
-        //     isOn = !isOn;
-        //     return isOn;
-        // });
 
         const searchLayer = L.layerGroup().addTo(map);
         //... adding data in searchLayer ...
@@ -222,9 +208,7 @@
 
         function zoomToFeature(e) {
             // contrôle du zoom
-            // if (isOn) {
             map.fitBounds(e.target.getBounds());
-            // }
 
             //on récupère la page web de la commune
             let page = e.target.feature.properties.page;

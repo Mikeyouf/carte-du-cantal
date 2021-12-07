@@ -8,8 +8,10 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" type="text/css" href="font-awesome.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-search@2.3.7/dist/leaflet-search.src.css" />
     <script src="./data/cantal.js" type="text/javascript"></script>
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet-search@2.3.7/dist/leaflet-search.src.js"></script>
     <title>Carte du Cantal</title>
 </head>
 
@@ -79,6 +81,18 @@
         //     isOn = !isOn;
         //     return isOn;
         // });
+
+        const searchLayer = L.layerGroup().addTo(map);
+        //... adding data in searchLayer ...
+        map.addControl(new L.Control.Search({
+            layer: geoJSONLayer,
+            propertyName: "nom",
+            textPlaceholder: "rechercher votre commune",
+            hideMarkerOnCollapse: true,
+            moveToLocation: function(latlng, title, map) {
+                map.setView(latlng, 12); // set the zoom
+            }
+        }));
 
         // choix de la couleur de la carte
         let couleur = "bleu";

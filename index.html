@@ -24,6 +24,7 @@
                 <option valeur="rouge">rouge</option>
                 <option valeur="vert">vert</option>
                 <option valeur="violet">violet</option>
+                <option valeur="monochrome">monochrome</option>
             </select>
         </div>
         <div id="map"></div>
@@ -37,8 +38,8 @@
         //on crée la carte
         let map = L.map('map').setView([45.0848524084893, 2.669316757802752], 9);
 
-        let OpenStreetMap_France = L.tileLayer('https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {
-            // maxZoom: 12,
+        let OpenStreetMap_France = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
+            // maxZoom: 20,
             attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
         });
         map.options.minZoom = 9;
@@ -118,6 +119,14 @@
                     });
                     map.addLayer(geoJSONLayer);
                     break;
+                case "monochrome":
+                    map.removeLayer(geoJSONLayer);
+                    geoJSONLayer = L.geoJson(statesData, {
+                        style: style4,
+                        onEachFeature: onEachFeature
+                    });
+                    map.addLayer(geoJSONLayer);
+                    break;
             }
         });
 
@@ -166,6 +175,17 @@
             };
         }
 
+        function style4(feature) {
+            return {
+                fillColor: getColor(feature.properties.code, "monochrome"),
+                weight: 2,
+                opacity: 1,
+                color: 'white',
+                dashArray: '3',
+                fillOpacity: 0.7
+            };
+        }
+
         function getColor(d, couleur) {
             if (couleur === "bleu") {
                 return d > 15300 ? '#034e7b' :
@@ -203,6 +223,8 @@
                     d > 15050 ? '#dadaeb' :
                     d > 15000 ? '#efedf5' :
                     '#fcfbfd';
+            } else if (couleur === "monochrome") {
+                return '#005a32'
             }
         }
 
@@ -251,10 +273,11 @@
             var layer = e.target;
 
             layer.setStyle({
-                weight: 3,
+                weight: 2,
                 color: '#666',
                 dashArray: '',
-                fillOpacity: 0.7
+                fillOpacity: 0.7,
+                fillColor: '#FEB24C',
             });
 
             if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {

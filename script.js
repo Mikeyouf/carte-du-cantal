@@ -21,7 +21,7 @@ info.onAdd = function(map) {
 info.update = function(props) {
     this._div.innerHTML = '<h4>Communes du département du Cantal </h4>' +
         '<h5>Cliquez sur votre commune pour avoir des infos</h5>' + (props ?
-            '<p><b>' + props.nom + '</b></p><p>' + props.code + '</p>' :
+            '<p><b>' + props.nom + '</b></p>' :
             '<p>Passez la souris sur une commune</p>');
 };
 
@@ -222,7 +222,10 @@ function zoomToFeature(e) {
 
     // on les rajoute dans la div parent
     let imagesRisque = Object.keys(risques).map(risque => `
-        <img class="risques-image ${risques[risque].isTrue ? "couleur" : "gris"}" src="${risques[risque].source}" alt="${risques[risque].alt}" />
+        <div class="picto">
+            <img class="risques-image ${risques[risque].isTrue ? "couleur" : "gris"}" src="${risques[risque].source}" alt="${risques[risque].alt}" />
+            <span class="picto-tooltip">${risques[risque].alt}</span>
+        </div>
     `).join("");
 
     divElt.innerHTML = `${imagesRisque}`;

@@ -28,7 +28,7 @@ body {
     background: rgba(255, 255, 255, 0.8);
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
-    width: 300px;
+    width: 320px;
     height: 80px;
     text-align: right;
 }
@@ -57,7 +57,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    max-height: 300px;
+    max-height: 360px;
     padding: 6px 8px;
     font: 14px/16px Arial, Helvetica, sans-serif;
     background: white;
@@ -81,7 +81,6 @@ body {
     flex: 1;
     display: flex;
     flex-direction: column;
-    /* justify-content: space-between; */
 }
 
 #liens a {
@@ -96,4 +95,23 @@ body {
 
 #couleurs {
     margin: 0 10px;
+}
+
+
+/* images des risques */
+
+#images-risques {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 300px;
+    gap: 8px;
+}
+
+.risques-image {
+    width: 60px;
+    height: 60px;
+}
+
+.gris {
+    filter: grayscale(1);
 }

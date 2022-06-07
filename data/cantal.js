@@ -290,7 +290,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15044", "nom": "Chastel-sur-Murat" }
+        "properties": {
+            "code": "15044",
+            "nom": "Chastel-sur-Murat",
+            "risques": {
+                "inondation": {
+                    "isTrue": false,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": false,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": false,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": false,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": false,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": false,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": false,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": false,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -5123,7 +5178,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15099", "nom": "Lavastrie" }
+        "properties": {
+            "code": "15099",
+            "nom": "Lavastrie",
+            "risques": {
+                "inondation": {
+                    "isTrue": false,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": false,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": false,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": false,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": false,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": false,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": false,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": false,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -13954,7 +14064,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15035", "nom": "Chalinargues" }
+        "properties": {
+            "code": "15035",
+            "nom": "Chalinargues",
+            "risques": {
+                "inondation": {
+                    "isTrue": false,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": false,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": false,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": false,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": false,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": false,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": false,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": false,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {

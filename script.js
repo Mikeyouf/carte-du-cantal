@@ -2,7 +2,6 @@
 let map = L.map('map').setView([45.0848524084893, 2.669316757802752], 9);
 
 let OpenStreetMap_France = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
-    // maxZoom: 20,
     attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
 });
 map.options.minZoom = 9;
@@ -122,92 +121,6 @@ function style(feature) {
         fillOpacity: 0.7
     };
 }
-
-// function style1(feature) {
-//     return {
-//         fillColor: getColor(feature.properties.code, "vert"),
-//         weight: 2,
-//         opacity: 1,
-//         color: 'white',
-//         dashArray: '',
-//         fillOpacity: 0.7
-//     };
-// }
-
-// function style2(feature) {
-//     return {
-//         fillColor: getColor(feature.properties.code, "rouge"),
-//         weight: 2,
-//         opacity: 1,
-//         color: 'white',
-//         dashArray: '',
-//         fillOpacity: 0.7
-//     };
-// }
-
-// function style3(feature) {
-//     return {
-//         fillColor: getColor(feature.properties.code, "violet"),
-//         weight: 2,
-//         opacity: 1,
-//         color: 'white',
-//         dashArray: '',
-//         fillOpacity: 0.7
-//     };
-// }
-
-// function style4(feature) {
-//     return {
-//         fillColor: getColor(feature.properties.code, "monochrome"),
-//         weight: 2,
-//         opacity: 1,
-//         color: 'white',
-//         dashArray: '',
-//         fillOpacity: 0.7
-//     };
-// }
-
-// function getColor(d, couleur) {
-//     if (couleur === "bleu") {
-//         return d > 15300 ? '#034e7b' :
-//             d > 15250 ? '#0570b0' :
-//             d > 15200 ? '#3690c0' :
-//             d > 15150 ? '#74a9cf' :
-//             d > 15100 ? '#a6bddb' :
-//             d > 15050 ? '#d0d1e6' :
-//             d > 15000 ? '#ece7f2' :
-//             '#fff7fb';
-//     } else if (couleur === "rouge") {
-//         return d > 15300 ? '#800026' :
-//             d > 15250 ? '#BD0026' :
-//             d > 15200 ? '#E31A1C' :
-//             d > 15150 ? '#FC4E2A' :
-//             d > 15100 ? '#FD8D3C' :
-//             d > 15050 ? '#FEB24C' :
-//             d > 15000 ? '#FED976' :
-//             '#FFEDA0';
-//     } else if (couleur === "vert") {
-//         return d > 15300 ? '#005a32' :
-//             d > 15250 ? '#238b45' :
-//             d > 15200 ? '#41ab5d' :
-//             d > 15150 ? '#74c476' :
-//             d > 15100 ? '#a1d99b' :
-//             d > 15050 ? '#c7e9c0' :
-//             d > 15000 ? '#e5f5e0' :
-//             '#f7fcf5';
-//     } else if (couleur === "violet") {
-//         return d > 15300 ? '#4a1486' :
-//             d > 15250 ? '#6a51a3' :
-//             d > 15200 ? '#807dba' :
-//             d > 15150 ? '#9e9ac8' :
-//             d > 15100 ? '#bcbddc' :
-//             d > 15050 ? '#dadaeb' :
-//             d > 15000 ? '#efedf5' :
-//             '#fcfbfd';
-//     } else if (couleur === "monochrome") {
-//         return '#005a32'
-//     }
-// }
 
 function zoomToFeature(e) {
     // contrôle du zoom

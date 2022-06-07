@@ -5423,7 +5423,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15136", "nom": "Mourjou" }
+        "properties": {
+            "code": "15136",
+            "nom": "Mourjou",
+            "risques": {
+                "inondation": {
+                    "isTrue": false,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": true,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": true,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": true,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": true,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": true,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": false,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": false,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -10906,7 +10961,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15227", "nom": "S\u00e9riers" }
+        "properties": {
+            "code": "15227",
+            "nom": "S\u00e9riers",
+            "risques": {
+                "inondation": {
+                    "isTrue": false,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": true,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": true,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": true,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": true,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": true,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": true,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": true,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -13088,7 +13198,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15027", "nom": "Calvinet" }
+        "properties": {
+            "code": "15027",
+            "nom": "Calvinet",
+            "risques": {
+                "inondation": {
+                    "isTrue": false,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": true,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": true,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": true,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": true,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": true,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": false,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": false,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -14750,7 +14915,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15047", "nom": "Chavagnac" }
+        "properties": {
+            "code": "15047",
+            "nom": "Chavagnac",
+            "risques": {
+                "inondation": {
+                    "isTrue": true,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": true,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": true,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": true,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": true,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": true,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": false,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": true,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -15535,7 +15755,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15031", "nom": "Celles" }
+        "properties": {
+            "code": "15031",
+            "nom": "Celles",
+            "risques": {
+                "inondation": {
+                    "isTrue": true,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": true,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": true,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": true,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": true,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": true,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": false,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": true,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -17226,7 +17501,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15171", "nom": "Sainte-Anastasie" }
+        "properties": {
+            "code": "15171",
+            "nom": "Sainte-Anastasie",
+            "risques": {
+                "inondation": {
+                    "isTrue": true,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": true,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": true,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": true,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": true,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": true,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": false,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": true,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -20871,7 +21201,62 @@ var statesData = {
                 ]
             ]
         },
-        "properties": { "code": "15145", "nom": "Oradour" }
+        "properties": {
+            "code": "15145",
+            "nom": "Oradour",
+            "risques": {
+                "inondation": {
+                    "isTrue": false,
+                    "source": "/images/Inondation.png",
+                    "alt": "Inondation",
+                },
+                "mouvement-de-terrain": {
+                    "isTrue": true,
+                    "source": "/images/Mouvement-de-terrain.png",
+                    "alt": "Mouvement de terrain",
+                },
+                "seisme": {
+                    "isTrue": true,
+                    "source": "/images/Sismique.png",
+                    "alt": "Séisme",
+                },
+                "radon": {
+                    "isTrue": true,
+                    "source": "/images/Radioactif.png",
+                    "alt": "Radon",
+                },
+                "feu-de-foret": {
+                    "isTrue": true,
+                    "source": "/images/feu-de-foret.png",
+                    "alt": "Feu de forêt",
+                },
+                "avalanche": {
+                    "isTrue": false,
+                    "source": "/images/avalanche-chute-de-neige.png",
+                    "alt": "Avalanche",
+                },
+                "industriel": {
+                    "isTrue": true,
+                    "source": "/images/Industriel.png",
+                    "alt": "Industriel",
+                },
+                "rupture-de-barrage": {
+                    "isTrue": true,
+                    "source": "/images/Rupture-de-barrage.png",
+                    "alt": "Rupture de barrage",
+                },
+                "tmd": {
+                    "isTrue": true,
+                    "source": "/images/TMD.png",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
+                },
+                "minier": {
+                    "isTrue": false,
+                    "source": "/images/Minier.png",
+                    "alt": "Minier",
+                }
+            }
+        }
     }, {
         "type": "Feature",
         "geometry": {

@@ -160,7 +160,7 @@ function zoomToFeature(e) {
         `;
     } else {
         // sinon un message d'info
-        parentElt.innerHTML = "pas d'infos concernant cette commune";
+        parentElt.innerHTML = "Pour connaître les niveaux de risques sur votre commune, consultez le DDRM";
     }
 }
 

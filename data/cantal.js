@@ -30,7 +30,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -45,7 +45,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -55,7 +55,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -70,7 +70,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -130,7 +130,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -145,7 +145,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -155,7 +155,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -170,7 +170,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -218,7 +218,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -233,7 +233,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -243,7 +243,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -258,7 +258,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -324,7 +324,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -339,7 +339,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -349,7 +349,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -364,7 +364,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -412,7 +412,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -427,7 +427,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -437,7 +437,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -452,7 +452,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -493,7 +493,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -508,7 +508,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -518,7 +518,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -533,7 +533,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -570,7 +570,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -585,7 +585,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -595,7 +595,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -610,7 +610,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -648,7 +648,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -663,7 +663,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -673,7 +673,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -688,7 +688,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -737,7 +737,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -752,7 +752,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -762,7 +762,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -777,7 +777,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -822,7 +822,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -837,7 +837,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -847,7 +847,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -862,7 +862,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -912,7 +912,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -927,7 +927,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -937,7 +937,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -952,7 +952,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1000,7 +1000,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1015,7 +1015,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1025,7 +1025,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -1040,7 +1040,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1095,7 +1095,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1110,7 +1110,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -1120,7 +1120,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -1135,7 +1135,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1182,7 +1182,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1197,7 +1197,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1207,7 +1207,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -1222,7 +1222,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1258,7 +1258,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1273,7 +1273,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1283,7 +1283,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -1298,7 +1298,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1343,7 +1343,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -1358,7 +1358,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1368,7 +1368,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -1383,7 +1383,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1429,7 +1429,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1444,7 +1444,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1454,7 +1454,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -1469,7 +1469,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1510,7 +1510,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1525,7 +1525,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1535,7 +1535,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -1550,7 +1550,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1603,7 +1603,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1618,7 +1618,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1628,7 +1628,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -1643,7 +1643,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1686,7 +1686,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -1701,7 +1701,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1711,7 +1711,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -1726,7 +1726,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1766,7 +1766,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1781,7 +1781,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1791,7 +1791,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -1806,7 +1806,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1851,7 +1851,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1866,7 +1866,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1876,7 +1876,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -1891,7 +1891,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -1930,7 +1930,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -1945,7 +1945,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -1955,7 +1955,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -1970,7 +1970,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2022,7 +2022,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2037,7 +2037,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2047,7 +2047,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -2062,7 +2062,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2105,7 +2105,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2120,7 +2120,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2130,7 +2130,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -2145,7 +2145,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2205,7 +2205,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2220,7 +2220,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2230,7 +2230,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -2245,7 +2245,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2288,7 +2288,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2303,7 +2303,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2313,7 +2313,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -2328,7 +2328,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2387,7 +2387,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2402,7 +2402,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2412,7 +2412,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -2427,7 +2427,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2468,7 +2468,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2483,7 +2483,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2493,7 +2493,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -2508,7 +2508,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2549,7 +2549,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2564,7 +2564,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2574,7 +2574,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -2589,7 +2589,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2641,7 +2641,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2656,7 +2656,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2666,7 +2666,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -2681,7 +2681,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2722,7 +2722,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2737,7 +2737,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2747,7 +2747,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -2762,7 +2762,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2804,7 +2804,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2819,7 +2819,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2829,7 +2829,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -2844,7 +2844,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2891,7 +2891,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2906,7 +2906,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -2916,7 +2916,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -2931,7 +2931,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -2976,7 +2976,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -2991,7 +2991,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3001,7 +3001,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -3016,7 +3016,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3072,7 +3072,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3087,7 +3087,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3097,7 +3097,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -3112,7 +3112,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3150,7 +3150,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3165,7 +3165,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3175,7 +3175,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -3190,7 +3190,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3235,7 +3235,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3250,7 +3250,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3260,7 +3260,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -3275,7 +3275,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3316,7 +3316,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3331,7 +3331,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3341,7 +3341,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -3356,7 +3356,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3395,7 +3395,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3410,7 +3410,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3420,7 +3420,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -3435,7 +3435,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3478,7 +3478,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3493,7 +3493,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3503,7 +3503,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -3518,7 +3518,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3565,7 +3565,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3580,7 +3580,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3590,7 +3590,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -3605,7 +3605,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3648,7 +3648,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3663,7 +3663,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3673,7 +3673,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -3688,7 +3688,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3727,7 +3727,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3742,7 +3742,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3752,7 +3752,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -3767,7 +3767,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3828,7 +3828,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3843,7 +3843,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3853,7 +3853,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -3868,7 +3868,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -3907,7 +3907,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -3922,7 +3922,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -3932,7 +3932,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -3947,7 +3947,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4006,7 +4006,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4021,7 +4021,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4031,7 +4031,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -4046,7 +4046,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4097,7 +4097,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4112,7 +4112,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -4122,7 +4122,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -4137,7 +4137,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4189,7 +4189,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4204,7 +4204,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4214,7 +4214,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -4229,7 +4229,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4282,7 +4282,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4297,7 +4297,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4307,7 +4307,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -4322,7 +4322,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4372,7 +4372,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4387,7 +4387,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4397,7 +4397,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -4412,7 +4412,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4453,7 +4453,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4468,7 +4468,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4478,7 +4478,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -4493,7 +4493,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4540,7 +4540,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4555,7 +4555,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -4565,7 +4565,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -4580,7 +4580,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4625,7 +4625,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4640,7 +4640,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4650,7 +4650,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -4665,7 +4665,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4711,7 +4711,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4726,7 +4726,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4736,7 +4736,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -4751,7 +4751,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4797,7 +4797,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -4812,7 +4812,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4822,7 +4822,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -4837,7 +4837,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4880,7 +4880,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -4895,7 +4895,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4905,7 +4905,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -4920,7 +4920,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -4957,7 +4957,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -4972,7 +4972,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -4982,7 +4982,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -4997,7 +4997,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5041,7 +5041,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -5056,7 +5056,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5066,7 +5066,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -5081,7 +5081,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5160,7 +5160,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -5175,7 +5175,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5185,7 +5185,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -5200,7 +5200,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5246,7 +5246,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -5261,7 +5261,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5271,7 +5271,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -5286,7 +5286,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5341,7 +5341,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -5356,7 +5356,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5366,7 +5366,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -5381,7 +5381,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5481,7 +5481,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -5496,7 +5496,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5506,7 +5506,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -5521,7 +5521,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5570,7 +5570,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -5585,7 +5585,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5595,7 +5595,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -5610,7 +5610,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5651,7 +5651,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -5666,7 +5666,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5676,7 +5676,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -5691,7 +5691,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5747,7 +5747,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -5762,7 +5762,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5772,7 +5772,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -5787,7 +5787,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5837,7 +5837,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -5852,7 +5852,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5862,7 +5862,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -5877,7 +5877,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -5926,7 +5926,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -5941,7 +5941,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -5951,7 +5951,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -5966,7 +5966,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6009,7 +6009,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -6024,7 +6024,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6034,7 +6034,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -6049,7 +6049,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6098,7 +6098,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -6113,7 +6113,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6123,7 +6123,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -6138,7 +6138,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6184,7 +6184,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -6199,7 +6199,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6209,7 +6209,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -6224,7 +6224,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6271,7 +6271,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -6286,7 +6286,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6296,7 +6296,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -6311,7 +6311,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6344,7 +6344,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -6359,7 +6359,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6369,7 +6369,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -6384,7 +6384,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6426,7 +6426,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -6441,7 +6441,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6451,7 +6451,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -6466,7 +6466,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6518,7 +6518,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -6533,7 +6533,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6543,7 +6543,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -6558,7 +6558,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6604,7 +6604,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -6619,7 +6619,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6629,7 +6629,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -6644,7 +6644,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6694,7 +6694,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -6709,7 +6709,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6719,7 +6719,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -6734,7 +6734,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6780,7 +6780,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -6795,7 +6795,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6805,7 +6805,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -6820,7 +6820,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6862,7 +6862,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -6877,7 +6877,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6887,7 +6887,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -6902,7 +6902,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -6946,7 +6946,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -6961,7 +6961,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -6971,7 +6971,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -6986,7 +6986,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7030,7 +7030,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7045,7 +7045,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7055,7 +7055,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7070,7 +7070,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7118,7 +7118,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7133,7 +7133,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7143,7 +7143,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -7158,7 +7158,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7200,7 +7200,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -7215,7 +7215,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -7225,7 +7225,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7240,7 +7240,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7299,7 +7299,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7314,7 +7314,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7324,7 +7324,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7339,7 +7339,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7383,7 +7383,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7398,7 +7398,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7408,7 +7408,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7423,7 +7423,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7465,7 +7465,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7480,7 +7480,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7490,7 +7490,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7505,7 +7505,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7551,7 +7551,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7566,7 +7566,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7576,7 +7576,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7591,7 +7591,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7631,7 +7631,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7646,7 +7646,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7656,7 +7656,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7671,7 +7671,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7718,7 +7718,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7733,7 +7733,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7743,7 +7743,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7758,7 +7758,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7801,7 +7801,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7816,7 +7816,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7826,7 +7826,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7841,7 +7841,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7885,7 +7885,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7900,7 +7900,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7910,7 +7910,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -7925,7 +7925,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -7967,7 +7967,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -7982,7 +7982,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -7992,7 +7992,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -8007,7 +8007,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8052,7 +8052,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -8067,7 +8067,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8077,7 +8077,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -8092,7 +8092,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8124,7 +8124,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -8139,7 +8139,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -8149,7 +8149,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -8164,7 +8164,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8202,7 +8202,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -8217,7 +8217,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8227,7 +8227,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -8242,7 +8242,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8284,7 +8284,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -8299,7 +8299,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8309,7 +8309,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -8324,7 +8324,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8362,7 +8362,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -8377,7 +8377,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8387,7 +8387,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -8402,7 +8402,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8446,7 +8446,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -8461,7 +8461,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8471,7 +8471,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -8486,7 +8486,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8531,7 +8531,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -8546,7 +8546,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8556,7 +8556,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -8571,7 +8571,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8635,7 +8635,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -8650,7 +8650,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8660,7 +8660,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -8675,7 +8675,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8745,7 +8745,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -8760,7 +8760,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8770,7 +8770,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -8785,7 +8785,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8820,7 +8820,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -8835,7 +8835,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8845,7 +8845,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -8860,7 +8860,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -8913,7 +8913,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -8928,7 +8928,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -8938,7 +8938,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -8953,7 +8953,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9007,7 +9007,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9022,7 +9022,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9032,7 +9032,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -9047,7 +9047,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9091,7 +9091,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9106,7 +9106,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9116,7 +9116,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -9131,7 +9131,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9171,7 +9171,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -9186,7 +9186,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9196,7 +9196,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -9211,7 +9211,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9262,7 +9262,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9277,7 +9277,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9287,7 +9287,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -9302,7 +9302,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9347,7 +9347,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9362,7 +9362,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9372,7 +9372,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -9387,7 +9387,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9423,7 +9423,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9438,7 +9438,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9448,7 +9448,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -9463,7 +9463,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9513,7 +9513,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9528,7 +9528,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9538,7 +9538,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -9553,7 +9553,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9595,7 +9595,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9610,7 +9610,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9620,7 +9620,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -9635,7 +9635,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9688,7 +9688,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9703,7 +9703,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9713,7 +9713,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -9728,7 +9728,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9770,7 +9770,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9785,7 +9785,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9795,7 +9795,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -9810,7 +9810,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9870,7 +9870,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9885,7 +9885,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9895,7 +9895,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -9910,7 +9910,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -9961,7 +9961,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -9976,7 +9976,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -9986,7 +9986,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10001,7 +10001,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10056,7 +10056,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10071,7 +10071,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -10081,7 +10081,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -10096,7 +10096,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10152,7 +10152,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10167,7 +10167,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -10177,7 +10177,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10192,7 +10192,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10244,7 +10244,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10259,7 +10259,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -10269,7 +10269,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10284,7 +10284,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10325,7 +10325,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10340,7 +10340,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -10350,7 +10350,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10365,7 +10365,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10416,7 +10416,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10431,7 +10431,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -10441,7 +10441,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10456,7 +10456,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10511,7 +10511,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10526,7 +10526,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -10536,7 +10536,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10551,7 +10551,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10604,7 +10604,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10619,7 +10619,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -10629,7 +10629,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10644,7 +10644,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10682,7 +10682,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10697,7 +10697,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -10707,7 +10707,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10722,7 +10722,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10758,7 +10758,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10773,7 +10773,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -10783,7 +10783,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10798,7 +10798,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10835,7 +10835,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10850,7 +10850,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -10860,7 +10860,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10875,7 +10875,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -10950,7 +10950,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -10965,7 +10965,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -10975,7 +10975,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -10990,7 +10990,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11043,7 +11043,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11058,7 +11058,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11068,7 +11068,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -11083,7 +11083,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11126,7 +11126,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11141,7 +11141,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11151,7 +11151,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -11166,7 +11166,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11212,7 +11212,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11227,7 +11227,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11237,7 +11237,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -11252,7 +11252,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11304,7 +11304,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11319,7 +11319,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11329,7 +11329,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -11344,7 +11344,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11390,7 +11390,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11405,7 +11405,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11415,7 +11415,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -11430,7 +11430,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11479,7 +11479,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11494,7 +11494,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11504,7 +11504,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -11519,7 +11519,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11554,7 +11554,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11569,7 +11569,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11579,7 +11579,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -11594,7 +11594,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11643,7 +11643,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -11658,7 +11658,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11668,7 +11668,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -11683,7 +11683,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11729,7 +11729,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11744,7 +11744,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11754,7 +11754,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -11769,7 +11769,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11807,7 +11807,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11822,7 +11822,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -11832,7 +11832,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -11847,7 +11847,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -11899,7 +11899,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -11914,7 +11914,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -11924,7 +11924,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -11939,7 +11939,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12002,7 +12002,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12017,7 +12017,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12027,7 +12027,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -12042,7 +12042,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12090,7 +12090,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12105,7 +12105,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12115,7 +12115,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -12130,7 +12130,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12164,7 +12164,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12179,7 +12179,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12189,7 +12189,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -12204,7 +12204,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12252,7 +12252,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12267,7 +12267,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -12277,7 +12277,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -12292,7 +12292,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12337,7 +12337,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12352,7 +12352,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12362,7 +12362,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -12377,7 +12377,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12419,7 +12419,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12434,7 +12434,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12444,7 +12444,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -12459,7 +12459,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12504,7 +12504,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12519,7 +12519,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12529,7 +12529,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -12544,7 +12544,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12589,7 +12589,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12604,7 +12604,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12614,7 +12614,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -12629,7 +12629,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12672,7 +12672,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12687,7 +12687,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12697,7 +12697,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -12712,7 +12712,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12746,7 +12746,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12761,7 +12761,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12771,7 +12771,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -12786,7 +12786,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12849,7 +12849,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12864,7 +12864,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12874,7 +12874,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -12889,7 +12889,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -12931,7 +12931,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -12946,7 +12946,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -12956,7 +12956,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -12971,7 +12971,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13014,7 +13014,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13029,7 +13029,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13039,7 +13039,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13054,7 +13054,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13123,7 +13123,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13138,7 +13138,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13148,7 +13148,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13163,7 +13163,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13203,7 +13203,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13218,7 +13218,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13228,7 +13228,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13243,7 +13243,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13279,7 +13279,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -13294,7 +13294,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13304,7 +13304,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13319,7 +13319,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13363,7 +13363,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13378,7 +13378,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13388,7 +13388,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13403,7 +13403,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13447,7 +13447,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13462,7 +13462,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -13472,7 +13472,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13487,7 +13487,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13534,7 +13534,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13549,7 +13549,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13559,7 +13559,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -13574,7 +13574,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13620,7 +13620,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13635,7 +13635,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13645,7 +13645,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13660,7 +13660,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13705,7 +13705,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13720,7 +13720,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13730,7 +13730,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13745,7 +13745,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13822,7 +13822,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13837,7 +13837,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13847,7 +13847,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13862,7 +13862,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13896,7 +13896,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13911,7 +13911,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -13921,7 +13921,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -13936,7 +13936,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -13980,7 +13980,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -13995,7 +13995,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -14005,7 +14005,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14020,7 +14020,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14064,7 +14064,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -14079,7 +14079,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -14089,7 +14089,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14104,7 +14104,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14147,7 +14147,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -14162,7 +14162,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -14172,7 +14172,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14187,7 +14187,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14237,7 +14237,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -14252,7 +14252,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -14262,7 +14262,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14277,7 +14277,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14337,7 +14337,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -14352,7 +14352,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -14362,7 +14362,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14377,7 +14377,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14429,7 +14429,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -14444,7 +14444,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -14454,7 +14454,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14469,7 +14469,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14511,7 +14511,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -14526,7 +14526,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -14536,7 +14536,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14551,7 +14551,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14591,7 +14591,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -14606,7 +14606,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -14616,7 +14616,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -14631,7 +14631,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14676,7 +14676,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -14691,7 +14691,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -14701,7 +14701,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14716,7 +14716,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14783,7 +14783,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -14798,7 +14798,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -14808,7 +14808,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -14823,7 +14823,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14872,7 +14872,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -14887,7 +14887,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -14897,7 +14897,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14912,7 +14912,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -14956,7 +14956,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -14971,7 +14971,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -14981,7 +14981,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -14996,7 +14996,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15036,7 +15036,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15051,7 +15051,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -15061,7 +15061,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -15076,7 +15076,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15124,7 +15124,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15139,7 +15139,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -15149,7 +15149,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -15164,7 +15164,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15208,7 +15208,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15223,7 +15223,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -15233,7 +15233,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -15248,7 +15248,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15291,7 +15291,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15306,7 +15306,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -15316,7 +15316,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -15331,7 +15331,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15374,7 +15374,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15389,7 +15389,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -15399,7 +15399,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -15414,7 +15414,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15454,7 +15454,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15469,7 +15469,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -15479,7 +15479,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -15494,7 +15494,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15570,7 +15570,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15585,7 +15585,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -15595,7 +15595,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -15610,7 +15610,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15663,7 +15663,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15678,7 +15678,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -15688,7 +15688,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -15703,7 +15703,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15744,7 +15744,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15759,7 +15759,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -15769,7 +15769,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -15784,7 +15784,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15839,7 +15839,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15854,7 +15854,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -15864,7 +15864,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -15879,7 +15879,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -15922,7 +15922,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -15937,7 +15937,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -15947,7 +15947,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -15962,7 +15962,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16018,7 +16018,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16033,7 +16033,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16043,7 +16043,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -16058,7 +16058,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16101,7 +16101,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16116,7 +16116,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16126,7 +16126,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -16141,7 +16141,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": true,
@@ -16182,7 +16182,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16197,7 +16197,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16207,7 +16207,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -16222,7 +16222,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16280,7 +16280,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16295,7 +16295,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16305,7 +16305,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -16320,7 +16320,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16358,7 +16358,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -16373,7 +16373,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16383,7 +16383,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -16398,7 +16398,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16440,7 +16440,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16455,7 +16455,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16465,7 +16465,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -16480,7 +16480,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16532,7 +16532,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16547,7 +16547,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16557,7 +16557,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -16572,7 +16572,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16627,7 +16627,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16642,7 +16642,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16652,7 +16652,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -16667,7 +16667,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16725,7 +16725,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16740,7 +16740,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16750,7 +16750,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -16765,7 +16765,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16812,7 +16812,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16827,7 +16827,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16837,7 +16837,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -16852,7 +16852,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16907,7 +16907,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -16922,7 +16922,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -16932,7 +16932,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -16947,7 +16947,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -16989,7 +16989,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -17004,7 +17004,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17014,7 +17014,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17029,7 +17029,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17069,7 +17069,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17084,7 +17084,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17094,7 +17094,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17109,7 +17109,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17152,7 +17152,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17167,7 +17167,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -17177,7 +17177,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17192,7 +17192,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17267,7 +17267,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17282,7 +17282,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17292,7 +17292,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17307,7 +17307,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17348,7 +17348,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17363,7 +17363,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17373,7 +17373,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17388,7 +17388,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17430,7 +17430,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17445,7 +17445,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17455,7 +17455,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17470,7 +17470,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17515,7 +17515,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17530,7 +17530,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17540,7 +17540,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17555,7 +17555,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17596,7 +17596,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17611,7 +17611,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -17621,7 +17621,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17636,7 +17636,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17683,7 +17683,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17698,7 +17698,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17708,7 +17708,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17723,7 +17723,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": true,
@@ -17759,7 +17759,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17774,7 +17774,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17784,7 +17784,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17799,7 +17799,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17841,7 +17841,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17856,7 +17856,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17866,7 +17866,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -17881,7 +17881,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -17973,7 +17973,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -17988,7 +17988,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -17998,7 +17998,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18013,7 +18013,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18057,7 +18057,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18072,7 +18072,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18082,7 +18082,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18097,7 +18097,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18141,7 +18141,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18156,7 +18156,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18166,7 +18166,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18181,7 +18181,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18220,7 +18220,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18235,7 +18235,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -18245,7 +18245,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18260,7 +18260,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18315,7 +18315,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18330,7 +18330,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18340,7 +18340,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -18355,7 +18355,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18409,7 +18409,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18424,7 +18424,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18434,7 +18434,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18449,7 +18449,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18497,7 +18497,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18512,7 +18512,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18522,7 +18522,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -18537,7 +18537,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18568,7 +18568,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18583,7 +18583,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18593,7 +18593,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18608,7 +18608,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18651,7 +18651,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18666,7 +18666,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18676,7 +18676,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18691,7 +18691,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18731,7 +18731,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18746,7 +18746,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18756,7 +18756,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18771,7 +18771,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18825,7 +18825,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18840,7 +18840,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18850,7 +18850,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18865,7 +18865,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -18914,7 +18914,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -18929,7 +18929,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -18939,7 +18939,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -18954,7 +18954,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19002,7 +19002,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19017,7 +19017,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19027,7 +19027,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -19042,7 +19042,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19086,7 +19086,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19101,7 +19101,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19111,7 +19111,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -19126,7 +19126,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19169,7 +19169,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19184,7 +19184,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19194,7 +19194,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -19209,7 +19209,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19252,7 +19252,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -19267,7 +19267,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19277,7 +19277,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -19292,7 +19292,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19340,7 +19340,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19355,7 +19355,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19365,7 +19365,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -19380,7 +19380,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19421,7 +19421,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19436,7 +19436,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19446,7 +19446,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -19461,7 +19461,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19512,7 +19512,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19527,7 +19527,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19537,7 +19537,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -19552,7 +19552,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19602,7 +19602,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19617,7 +19617,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19627,7 +19627,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -19642,7 +19642,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19684,7 +19684,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -19699,7 +19699,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19709,7 +19709,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -19724,7 +19724,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19768,7 +19768,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19783,7 +19783,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19793,7 +19793,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -19808,7 +19808,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19850,7 +19850,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19865,7 +19865,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19875,7 +19875,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -19890,7 +19890,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -19935,7 +19935,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -19950,7 +19950,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -19960,7 +19960,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -19975,7 +19975,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20020,7 +20020,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20035,7 +20035,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20045,7 +20045,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -20060,7 +20060,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20098,7 +20098,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20113,7 +20113,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20123,7 +20123,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -20138,7 +20138,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20197,7 +20197,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20212,7 +20212,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20222,7 +20222,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -20237,7 +20237,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20283,7 +20283,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20298,7 +20298,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20308,7 +20308,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -20323,7 +20323,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20360,7 +20360,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20375,7 +20375,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20385,7 +20385,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -20400,7 +20400,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20445,7 +20445,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20460,7 +20460,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20470,7 +20470,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -20485,7 +20485,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20527,7 +20527,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20542,7 +20542,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20552,7 +20552,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -20567,7 +20567,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20620,7 +20620,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": false,
@@ -20635,7 +20635,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20645,7 +20645,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -20660,7 +20660,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20712,7 +20712,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20727,7 +20727,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20737,7 +20737,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -20752,7 +20752,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20790,7 +20790,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20805,7 +20805,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20815,7 +20815,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -20830,7 +20830,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20909,7 +20909,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -20924,7 +20924,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -20934,7 +20934,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -20949,7 +20949,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -20993,7 +20993,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -21008,7 +21008,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -21018,7 +21018,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -21033,7 +21033,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -21078,7 +21078,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -21093,7 +21093,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -21103,7 +21103,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -21118,7 +21118,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -21180,7 +21180,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -21195,7 +21195,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -21205,7 +21205,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -21220,7 +21220,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -21259,7 +21259,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": false,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -21274,7 +21274,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": true,
@@ -21284,7 +21284,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": true,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": false,
@@ -21299,7 +21299,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": false,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,
@@ -21340,7 +21340,7 @@ var statesData = {
                 "inondation": {
                     "isTrue": true,
                     "source": "/images/Inondation.png",
-                    "alt": "risque d'inondation",
+                    "alt": "Inondation",
                 },
                 "mouvement-de-terrain": {
                     "isTrue": true,
@@ -21355,7 +21355,7 @@ var statesData = {
                 "radon": {
                     "isTrue": true,
                     "source": "/images/Radioactif.png",
-                    "alt": "Radioactif",
+                    "alt": "Radon",
                 },
                 "feu-de-foret": {
                     "isTrue": false,
@@ -21365,7 +21365,7 @@ var statesData = {
                 "avalanche": {
                     "isTrue": false,
                     "source": "/images/avalanche-chute-de-neige.png",
-                    "alt": "Avalanche, chute de neige",
+                    "alt": "Avalanche",
                 },
                 "industriel": {
                     "isTrue": true,
@@ -21380,7 +21380,7 @@ var statesData = {
                 "tmd": {
                     "isTrue": true,
                     "source": "/images/TMD.png",
-                    "alt": "Transport de matériaux dangereux",
+                    "alt": "Transport de Matières Dangereuses (TDM)",
                 },
                 "minier": {
                     "isTrue": false,

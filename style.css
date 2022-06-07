@@ -114,6 +114,7 @@ body {
 
 .gris {
     filter: grayscale(1);
+    opacity: 0.3;
 }
 
 .picto {

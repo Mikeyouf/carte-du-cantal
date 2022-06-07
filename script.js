@@ -18,7 +18,7 @@ info.onAdd = function(map) {
 };
 
 info.update = function(props) {
-    this._div.innerHTML = '<h4>Communes du département du Cantal </h4>' +
+    this._div.innerHTML = '<h4>Les risques identifiés sur les communes du département du Cantal</h4>' +
         '<h5>Cliquez sur votre commune pour avoir des infos</h5>' + (props ?
             '<p><b>' + props.nom + '</b></p>' :
             '<p>Passez la souris sur une commune</p>');

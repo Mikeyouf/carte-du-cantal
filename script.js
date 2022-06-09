@@ -19,7 +19,10 @@ function isMobileDevice() {
 isMobileDevice();
 
 //on crée la carte
-let map = L.map('map').setView([45.0848524084893, 2.669316757802752], isMobile ? 8 : 9);
+let map = L.map('map', {
+    dragging: !L.Browser.mobile,
+    tap: !L.Browser.mobile
+}).setView([45.0848524084893, 2.669316757802752], isMobile ? 8 : 9);
 
 let OpenStreetMap_France = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'

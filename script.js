@@ -127,16 +127,12 @@ function zoomToFeature(e) {
 
     if (docTIM) {
         //je crée un lien avec le doc
-        // let docLienElt = `Document: <a href=${docTIM} target="_blank">TIM</a>`;
-        // console.log(docLienElt);
         //si on a l'info, on la passe dans la balise p
         parentElt.innerHTML = `
             Pour connaître les niveaux de risques sur votre commune, consultez le DDRM </br>
             <span class="lien-tim">Document: <a href=${docTIM} target="_blank">TIM</a></span>
         `;
     }
-    //message d'info DDRM
-    // parentElt.innerHTML = "Pour connaître les niveaux de risques sur votre commune, consultez le DDRM";
 }
 
 function onEachFeature(feature, layer) {
@@ -160,7 +156,7 @@ function highlightFeature(e) {
     });
 
     if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-        layer.bringToFront(); // Permet de garantir que le pays est au-dessus des autres couches de données
+        layer.bringToFront(); // Permet de garantir que la carte est au-dessus des autres couches de données
     }
 
     info.update(layer.feature.properties);

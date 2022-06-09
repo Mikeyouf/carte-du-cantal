@@ -99,6 +99,7 @@ body {
     flex: 1;
     display: flex;
     flex-direction: column;
+    line-height: 24px;
 }
 
 #liens a {
@@ -117,7 +118,6 @@ body {
 
 .lien-tim {
     margin-top: 16px;
-    ;
 }
 
 
@@ -178,4 +178,8 @@ body {
     top: -90%;
     visibility: visible;
     opacity: 1;
+}
+
+.bold {
+    font-weight: bold;
 }

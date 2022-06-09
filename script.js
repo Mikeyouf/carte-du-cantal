@@ -119,7 +119,7 @@ function zoomToFeature(e) {
 
     // on récupère les documents TIM s'il y en a
     let docTIM = e.target.feature.properties.TIM;
-    console.log(docTIM);
+    let nomCommune = e.target.feature.properties.NOM_COM;
 
     // je récupère mon paragraphe
     let parentElt = document.getElementById("liens");
@@ -129,8 +129,8 @@ function zoomToFeature(e) {
         //je crée un lien avec le doc
         //si on a l'info, on la passe dans la balise p
         parentElt.innerHTML = `
-            Pour connaître les niveaux de risques sur votre commune, consultez le DDRM </br>
-            <span class="lien-tim">Document: <a href=${docTIM} target="_blank">TIM</a></span>
+            <p>Pour connaître les niveaux de risques sur <span class="bold">${nomCommune}</span>, consultez le DDRM </br>
+            <span class="lien-tim">Document: <a href=${docTIM} target="_blank">TIM</a></span></p>
         `;
     }
 }

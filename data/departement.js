@@ -1,4 +1,8 @@
-var departeData = { "type": "Feature", "geometry": { "type": "Polygon", "coordinates": [
+var departeData = {
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
             [
                 [2.5084125130653, 45.478501516921],
                 [2.5244372055202, 45.480702895801],
@@ -344,4 +348,7 @@ var departeData = { "type": "Feature", "geometry": { "type": "Polygon", "coordin
                 [2.5067704533992, 45.464065004968],
                 [2.5084125130653, 45.478501516921]
             ]
-        ] }, "properties": { "code": "15", "nom": "Cantal" } }
+        ]
+    },
+    "properties": { "code": "15", "nom": "Cantal" }
+}

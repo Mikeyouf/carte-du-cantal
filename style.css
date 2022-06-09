@@ -6,8 +6,12 @@
     #map {
         max-height: 500px;
         min-width: 100%;
+        width: 100vw;
     }
 }
+
+
+/* A supprimer pour l'intégration dans la page */
 
 html,
 body {
@@ -15,10 +19,13 @@ body {
 }
 
 #map {
-    width: 50%;
-    height: 600px;
+    /* width: 50%; */
+    /* height: 600px; */
     /* margin: 0 auto; */
     margin-bottom: 10px;
+    height: 100%;
+    min-height: 600px;
+    width: 100vw;
 }
 
 .info {
@@ -96,6 +103,11 @@ body {
 
 #couleurs {
     margin: 0 10px;
+}
+
+.lien-tim {
+    margin-top: 16px;
+    ;
 }
 
 

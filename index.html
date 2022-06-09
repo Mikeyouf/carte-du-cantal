@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html lang="fr">
+<!-- Placer les balises dans le Head de la page -->
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" type="text/css" href="font-awesome.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet-search@2.3.7/dist/leaflet-search.src.css" />
-    <script src="./data/cantal.js" type="text/javascript"></script>
     <script src="./data/departement.js" type="text/javascript"></script>
+    <script src="./data/communes-cantal.js" type="text/javascript"></script>
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
     <script src="https://unpkg.com/leaflet-search@2.3.7/dist/leaflet-search.src.js"></script>
     <title>Les risques identifiés sur les communes du département du Cantal</title>
 </head>
 
 <body>
+    <!-- Prendre à partir de cette balise div -->
     <div class="parent">
         <div id="map"></div>
         <div class="info-commune">
@@ -26,6 +29,7 @@
         </div>
     </div>
     <script src="script.js" type="text/javascript"></script>
+    <!-- jusqu'ici -->
 </body>
 
 </html>

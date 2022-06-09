@@ -1,10 +1,28 @@
+// détecter si on est sur mobile ou ordi
+let isMobile = false;
+
+function isMobileDevice() {
+    if (navigator.userAgent.match(/iPhone/i) ||
+        navigator.userAgent.match(/webOS/i) ||
+        navigator.userAgent.match(/Android/i) ||
+        navigator.userAgent.match(/iPad/i) ||
+        navigator.userAgent.match(/iPod/i) ||
+        navigator.userAgent.match(/BlackBerry/i) ||
+        navigator.userAgent.match(/Windows Phone/i)
+    ) {
+        return isMobile = true;
+    } else {
+        return isMobile = false;
+    }
+}
+
 //on crée la carte
-let map = L.map('map').setView([45.0848524084893, 2.669316757802752], 9);
+let map = L.map('map').setView([45.0848524084893, 2.669316757802752], isMobile ? 8 : 9);
 
 let OpenStreetMap_France = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
 });
-map.options.minZoom = 9;
+map.options.minZoom = isMobileDevice ? 8 : 9;
 map.options.maxZoom = 15;
 
 map.addLayer(OpenStreetMap_France);
@@ -20,7 +38,7 @@ info.onAdd = function(map) {
 info.update = function(props) {
     this._div.innerHTML = '<h4>Les risques identifiés sur les communes du département du Cantal</h4>' +
         '<h5>Cliquez sur votre commune pour avoir des infos</h5>' + (props ?
-            '<p><b>' + props.nom + '</b></p>' :
+            '<p><b>' + props.NOM_COM + '</b></p>' :
             '<p>Passez la souris sur une commune</p>');
 };
 
@@ -31,7 +49,7 @@ let geoJSONLayer2 = L.geoJson(departeData, {
     style: styleDep,
 }).addTo(map);
 
-let geoJSONLayer = L.geoJson(statesData, {
+let geoJSONLayer = L.geoJson(cantalData, {
     style: style,
     onEachFeature: onEachFeature
 }).addTo(map);
@@ -41,62 +59,14 @@ const searchLayer = L.layerGroup().addTo(map);
 //... adding data in searchLayer ...
 map.addControl(new L.Control.Search({
     layer: geoJSONLayer,
-    propertyName: "nom",
+    propertyName: "NOM_COM",
     textPlaceholder: "rechercher votre commune",
     hideMarkerOnCollapse: true,
     moveToLocation: function(latlng, title, map) {
-        map.setView(latlng, 12); // set the zoom
+        map.setView(latlng, 10); // set the zoom
     }
 }));
 
-// choix de la couleur de la carte
-// let couleur = "monochrome";
-// const liste = document.getElementById('couleurs');
-// liste.addEventListener("change", e => {
-//     couleur = e.target.value;
-//     switch (couleur) {
-//         case "bleu":
-//             map.removeLayer(geoJSONLayer);
-//             geoJSONLayer = L.geoJson(statesData, {
-//                 style: style,
-//                 onEachFeature: onEachFeature
-//             });
-//             map.addLayer(geoJSONLayer);
-//             break;
-//         case "rouge":
-//             map.removeLayer(geoJSONLayer);
-//             geoJSONLayer = L.geoJson(statesData, {
-//                 style: style2,
-//                 onEachFeature: onEachFeature
-//             });
-//             map.addLayer(geoJSONLayer);
-//             break;
-//         case "vert":
-//             map.removeLayer(geoJSONLayer);
-//             geoJSONLayer = L.geoJson(statesData, {
-//                 style: style1,
-//                 onEachFeature: onEachFeature
-//             });
-//             map.addLayer(geoJSONLayer);
-//             break;
-//         case "violet":
-//             map.removeLayer(geoJSONLayer);
-//             geoJSONLayer = L.geoJson(statesData, {
-//                 style: style3,
-//                 onEachFeature: onEachFeature
-//             });
-//             map.addLayer(geoJSONLayer);
-//             break;
-//         case "monochrome":
-//             map.removeLayer(geoJSONLayer);
-//             geoJSONLayer = L.geoJson(statesData, {
-//                 style: style4,
-//                 onEachFeature: onEachFeature
-//             });
-//             map.addLayer(geoJSONLayer);
-//             break;
-//     }
-// });
 
 // Style pour le département
 function styleDep(feature) {
@@ -131,7 +101,6 @@ function zoomToFeature(e) {
 
     //on récupère le tableau des risques
     let risques = e.target.feature.properties.risques;
-    // let imageElt = document.createElement('img');
 
     // on les rajoute dans la div parent
     let imagesRisque = Object.keys(risques).map(risque => `
@@ -144,24 +113,25 @@ function zoomToFeature(e) {
     divElt.innerHTML = `${imagesRisque}`;
 
     // on récupère les documents TIM s'il y en a
-    let doc = e.target.feature.properties.doc;
+    let docTIM = e.target.feature.properties.TIM;
+    console.log(docTIM);
 
     // je récupère mon paragraphe
     let parentElt = document.getElementById("liens");
+    console.log('parentElt :', parentElt);
 
-    if (doc) {
+    if (docTIM) {
         //je crée un lien avec le doc
-        let docLienElt = doc.lien ? `
-        <p>Document: <a href=${doc.lien} target="_blank">${doc.nom}</a></p>
-    ` : '';
+        // let docLienElt = `Document: <a href=${docTIM} target="_blank">TIM</a>`;
+        // console.log(docLienElt);
         //si on a l'info, on la passe dans la balise p
         parentElt.innerHTML = `
-            ${docLienElt}
+            Pour connaître les niveaux de risques sur votre commune, consultez le DDRM </br>
+            <span class="lien-tim">Document: <a href=${docTIM} target="_blank">TIM</a></span>
         `;
-    } else {
-        // sinon un message d'info
-        parentElt.innerHTML = "Pour connaître les niveaux de risques sur votre commune, consultez le DDRM";
     }
+    //message d'info DDRM
+    // parentElt.innerHTML = "Pour connaître les niveaux de risques sur votre commune, consultez le DDRM";
 }
 
 function onEachFeature(feature, layer) {

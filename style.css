@@ -8,6 +8,15 @@
         min-width: 100%;
         width: 100vw;
     }
+    .info-commune {
+        min-width: 90vw;
+        margin: 0 auto;
+    }
+    #images-risques {
+        margin: 0 auto;
+        max-width: 90%;
+        min-width: 90vw;
+    }
 }
 
 
@@ -60,6 +69,7 @@ body {
 }
 
 .info-commune {
+    width: 320px;
     margin: 0 10px;
     display: flex;
     flex-direction: column;

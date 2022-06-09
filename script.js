@@ -16,6 +16,8 @@ function isMobileDevice() {
     }
 }
 
+isMobileDevice();
+
 //on crée la carte
 let map = L.map('map').setView([45.0848524084893, 2.669316757802752], isMobile ? 8 : 9);
 

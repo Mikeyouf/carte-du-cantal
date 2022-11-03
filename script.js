@@ -22,7 +22,7 @@ isMobileDevice();
 let map = L.map('map', {
     dragging: !L.Browser.mobile,
     tap: !L.Browser.mobile
-}).setView([45.0848524084893, 2.669316757802752], isMobile ? 8 : 9);
+}).setView([45.341792895191375, 1.876036549651184], isMobile ? 8 : 9);
 
 let OpenStreetMap_France = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
@@ -41,7 +41,7 @@ info.onAdd = function(map) {
 };
 
 info.update = function(props) {
-    this._div.innerHTML = '<h4>Les risques identifiés sur les communes du département du Cantal</h4>' + (props ?
+    this._div.innerHTML = '<h4>Les risques identifiés sur les communes du département de la Corrèze</h4>' + (props ?
         '<p><b>' + props.NOM_COM + '</b></p>' : isMobile ?
         '<h5>Cliquer sur une commune</h5>' : '<h5>Passez la souris sur une commune</h5>');
 };

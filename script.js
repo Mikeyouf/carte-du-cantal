@@ -22,7 +22,7 @@ isMobileDevice();
 let map = L.map('map', {
     dragging: !L.Browser.mobile,
     tap: !L.Browser.mobile
-}).setView([45.0848524084893, 2.669316757802752], isMobile ? 8 : 9);
+}).setView([45.341792895191375, 1.876036549651184], isMobile ? 8 : 9);
 
 let OpenStreetMap_France = L.tileLayer(
     'https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&TILEMATRIXSET=PM&TILEMATRIX={z}&TILECOL={x}&TILEROW={y}&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&FORMAT=image/jpeg&STYLE=normal', {

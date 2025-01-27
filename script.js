@@ -24,9 +24,11 @@ let map = L.map('map', {
     tap: !L.Browser.mobile
 }).setView([45.0848524084893, 2.669316757802752], isMobile ? 8 : 9);
 
-let OpenStreetMap_France = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
-});
+let OpenStreetMap_France = L.tileLayer(
+    'https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&TILEMATRIXSET=PM&TILEMATRIX={z}&TILECOL={x}&TILEROW={y}&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&FORMAT=image/jpeg&STYLE=normal', {
+        tileSize: 256,
+        attribution: "IGN-F/Géoportail"
+    });
 map.options.minZoom = isMobileDevice ? 8 : 9;
 map.options.maxZoom = 15;
 
@@ -34,13 +36,13 @@ map.addLayer(OpenStreetMap_France);
 
 var info = L.control();
 
-info.onAdd = function(map) {
+info.onAdd = function (map) {
     this._div = L.DomUtil.create('div', 'info');
     this.update();
     return this._div;
 };
 
-info.update = function(props) {
+info.update = function (props) {
     this._div.innerHTML = '<h4>Les risques identifiés sur les communes du département du Cantal</h4>' + (props ?
         '<p><b>' + props.NOM_COM + '</b></p>' : isMobile ?
         '<h5>Cliquer sur une commune</h5>' : '<h5>Passez la souris sur une commune</h5>');
@@ -66,7 +68,7 @@ map.addControl(new L.Control.Search({
     propertyName: "NOM_COM",
     textPlaceholder: "rechercher votre commune",
     hideMarkerOnCollapse: true,
-    moveToLocation: function(latlng, title, map) {
+    moveToLocation: function (latlng, title, map) {
         map.setView(latlng, 10); // set the zoom
     }
 }));
